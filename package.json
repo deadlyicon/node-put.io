@@ -2,6 +2,7 @@
   "name": "node-put.io",
   "version": "0.0.1",
   "description": "put.io api wrapper and cli",
+  "repository": "https://github.com/deadlyicon/node-put.io",
   "main": "dist/index.js",
   "scripts": {
     "build": "babel src -d dist",
